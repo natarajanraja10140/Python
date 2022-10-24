@@ -1,0 +1,7 @@
+#Append Function
+names=['Nataraj']
+print(names)
+names.append('Raja')
+names.append('Adhi')
+names.append("Raju")
+print(names)
