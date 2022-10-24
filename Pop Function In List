@@ -1,0 +1,10 @@
+#pop function in list
+
+a=[1,2,3,4,5]
+print(a)
+a.pop(2)     #remove using index
+print(a)
+a=[1,2,3,4,5]
+a.remove(2)   #remove using values which you stored
+print(a)
+
