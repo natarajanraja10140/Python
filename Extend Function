@@ -1,0 +1,6 @@
+#Extend Function
+name1=['Nataraj','Adhi']
+print(name1)
+name2=['Raja','Raju']
+name1.extend(name2)
+print(name1)
