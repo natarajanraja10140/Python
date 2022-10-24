@@ -1,0 +1,6 @@
+#Insert Function
+
+names=['Nataraj']
+print(names)
+names.insert(0,'Adhi')
+print(names)
